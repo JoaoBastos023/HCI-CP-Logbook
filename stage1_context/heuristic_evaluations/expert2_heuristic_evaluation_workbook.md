@@ -2,9 +2,9 @@
 Nielsen Norman Group available at: https://media.nngroup.com/media/articles/attachments/Heuristic_Evaluation_Workbook_-_Nielsen_Norman_Group.pdf
 -->
 
-**Evaluator**: [Evaluator Name]
-**Date**: [DD-MM-AAAA]
-**Product**: [SuperMaxiApp]
+**Evaluator**: [João Bastos]
+**Date**: [23-02-2025]
+**Product**: [CP APP]
 
 
 Severity Scale adopted: [[severity_scale_heuristic_evaluation]]
@@ -15,20 +15,18 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 >	- Does the design clearly communicate its state?
 >	- Is feedback presented quickly after user actions?
 
-| **Issue**       | **Severity** | Recommendation |
-| --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
+| **Issue**                              | **Severity** | Recommendation                   |
+| ---------------                        | ------------ | --------------                   |
+| App does not open in an option menu    | 2            |   Create a dashboard             |
 
 # 2 Match Between System and The Real World
 >	The design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon. Follow real-world conventions, making information appear in a natural and logical order. 
 >	- Will user be familiar with the terminology used in the design? 
 >	- Do the design’s controls follow real-world conventions?
 
-| **Issue**       | **Severity** | Recommendation |
-| --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
+| **Issue**                                        | **Severity** | Recommendation |
+| ---------------                                  | ------------ | -------------- |
+| Labels of the meaning of train types (AP,IC,R,U) | 2            | Add ! button on the side to explain the meaning of it                                  |
 
 # 3 User Control and Freedom
 >	Users often perform actions by mistake. They need a clearly marked "emergency exit" to leave the unwanted action without having to go through an extended process. 
@@ -67,8 +65,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
+| When buying a ticket with green pass, they always have to insert with no option of saving it | 3            | Add a saved list for passes               |
 # 7 Flexibility and Efficiency of Use
 >	Shortcuts — hidden from novice users — may speed up the interaction for the expert user such that the design can cater to both inexperienced and experienced users. Allow users to tailor frequent actions. 
 >	- Does the design provide accelerators like keyboard shortcuts and touch gestures? 
@@ -76,8 +73,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
+| Shortcut to immediately see the next trains on your most used station| 2            | Add a bookmarked section on the beggining of the page|
 # 8 Aesthetic and Minimalist Design
 >	Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. 
 >	- Is the visual design and content focused on the essentials? 
@@ -94,8 +90,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
+| No warnings about train strikes which impact when trying to buy a ticket | 3            | Add on the main page a box with latest news |
 
 # 10 Help and Documentation
 >	It’s best if the system doesn’t need any additional explanation. However, it may be necessary to provide documentation to help users understand how to complete their tasks. 
@@ -104,5 +99,4 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
+| Help button shows in bottom corner and only shows when we select a ticket and it's little information| 3    | Place a more visible button and from the start when we choose a train|
