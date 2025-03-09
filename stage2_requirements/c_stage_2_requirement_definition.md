@@ -9,34 +9,34 @@
 
 # Personas
 
-## Persona: [Persona Name] 
+## Persona: Marcos Silva 
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name\|100](personas/persona1.jpeg)  |
-| **Name**         | [Persona Name]                                |
-| **Age**          | [Persona Age]                                 |
-| **Occupation**   | [Job Title or Role]                           |
-| **Location**     | [City, Country]                               |
-| **Goals**        | [Brief summary of their main goals]           |
-| **Pain Points**  | [Key frustrations or challenges]              |
-| **Motivation**   | [One-line motivation or quote]                |
-| **Full Profile** | [📄 Read More](personas/persona1_template.md) |
+| **Photo**        | ![Marcos Silva\|100](personas/Marcos.jpg)     |
+| **Name**         | Marcos Silva                                  |
+| **Age**          | 22 anos                                       |
+| **Occupation**   | Estudante de Engenharia                       |
+| **Location**     | Lisboa, Portugal                              |
+| **Goals**        | Receber alertas personalizados e atualizações precisas para organizar seu trajeto sem imprevistos.                                       |
+| **Pain Points**  | Informações fragmentadas, como ausência de dados sobre plataformas de partida, atrasos e um processo de pagamento repetitivo.            |
+| **Motivation**   | *"Preciso de uma app que me ofereça controle real sobre minha viagem com informações claras."*                                              |
+| **Full Profile** | [📄 Read More](personas/persona_Marcos_.md)   |
 
 ---
-## Persona: [Persona Name] 
+## Persona: Ana Rodrigues 
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name](path/to/photo.jpg)            |
-| **Name**         | [Persona Name]                                |
-| **Age**          | [Persona Age]                                 |
-| **Occupation**   | [Job Title or Role]                           |
-| **Location**     | [City, Country]                               |
-| **Goals**        | [Brief summary of their main goals]           |
-| **Pain Points**  | [Key frustrations or challenges]              |
-| **Motivation**   | [One-line motivation or quote]                |
-| **Full Profile** | [📄 Read More](personas/persona2_template.md) |
+| **Photo**        | ![Ana Rodrigues\|100](personas/Ana.jpg)       |
+| **Name**         | Ana Rodrigues                                 |
+| **Age**          | 45 anos                                       |
+| **Occupation**   | Assistente Administrativa                     |
+| **Location**     | Porto, Portugal                               |
+| **Goals**        | Planear suas viagens de forma simples e sem complicações, com informações claras que garantam segurança e agilidade.             |
+| **Pain Points**  | Comunicação confusa, interface complexa e falta de atualizações em tempo real, que dificultam a tomada de decisão rápida.                   |
+| **Motivation**   | *"Quero um app que simplifique minha jornada, entregando informações diretas e um processo sem complicações."*                          |
+| **Full Profile** | [📄 Read More](personas/persona_Ana.md)       |
 
 ---
 
@@ -46,19 +46,15 @@
 
 # Scenarios
 
+## Scenario 1: Marcos Organizes His Morning Commute
 
-## Scenario 1: Maria goes on a Museum Tour
-
-[Maria had always loved modern art, but she often found museum visits overwhelming—so many exhibits, so much information, and little guidance on where to start. Today, she was visiting a contemporary art museum that had recently introduced an **interactive guide**.  ]
-
-[As she entered the museum, Maria received a notification on her phone, reminding her to launch the app. She opened it and was greeted with a personalized welcome screen. The system, aware of her general interests in **digital media and abstract art**, suggested a self-guided tour tailored to her preferences.  ]
-
-[Curious, Maria followed the suggested path. As she approached the first painting, the guide vibrated slightly—a prompt that additional content was available. Holding up the guide, she saw an **overlay** appear on the screen, revealing a time-lapse animation of the artist creating the piece. A small **audio clip** played, explaining the artist’s thought process and influences. Maria found this fascinating; it was as if the artwork was coming to life in front of her.  ]
-
-[As she continued her tour, Maria **bookmarked** her favorite pieces, leaving notes about what she found intriguing. The system, recognizing her engagement, suggested another exhibit nearby featuring similar themes. Midway through her visit, she received a pop-up asking if she’d like a **short quiz** on the artworks she had explored, offering an interactive way to reflect on what she had learned.  ]
+Marcos vive em Lisboa e depende do comboio para chegar a tempo à universidade e ao estágio. Numa manhã típica, enquanto ainda está em casa, ele abre a app da CP para verificar os horários e confirmar a plataforma de partida. A solução envia uma notificação em tempo real  que o informa de uma alteração de plataforma devido a um atraso. Essa informação permite que o Marcos ajuste o seu horário de saída sem pressa e evite correrias desnecessárias. Durante o trajeto, o Marcos pode a ver na app as atualizações precisas, paragens que já passou, as que ainda vai passar e as respetivas previsões de tempo de chegada, reforçando a confiança do Marcos na jornada. Além disso, um fluxo de pagamento otimizado permite que ele guarde os seus métodos preferidos, eliminando a necessidade de reinserir dados a cada viagem.
 
 ---
 
+## Scenario 2: Ana Plans a Stress-Free Journey to Work
+
+Ana, que reside no Porto, utiliza a app no seu tablet, geralmente na cozinha enquanto toma seu café matinal. Ao abrir a aplicação, ela busca informações claras e diretas sobre os horários dos comboios, com detalhes sobre atrasos e plataformas de partida. A interface intuitiva e os alertas visuais garantem que, mesmo em situações de imprevistos, Ana receba notificações imediatas sobre quaisquer alterações no serviço. Essa comunicação efetiva a ajuda a reorganizar sua agenda de trabalho e compromissos pessoais sem complicações. O sistema também proporciona uma experiência de pagamento simples e integrada, evitando o retrabalho e a frustração que ela já enfrentou anteriormente.
 
 # Requirements
 
