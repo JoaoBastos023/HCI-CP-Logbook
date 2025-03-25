@@ -58,15 +58,16 @@ Ana, que reside no Porto, utiliza a app no seu tablet, geralmente na cozinha enq
 
 # Requirements
 
-
-
-
-
 ## C.1. Functional requirements
+    Compra de bilhetes para viagens
+    Visualizar horários e a sua plataforma de partida
+    Notificar o utilizador de atrasos ou alteração de plataforma
+    Poder ver o trajeto do comboio em tempo real
+    Guardar dados de pagamento para futuras compras
 
 
 ## C.2. Non-functional requirements
-
-
+    Interface intuitiva com informações claras
+        
 ---
 [Back to main Logbook Page](hci_logbook.md)
