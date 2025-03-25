@@ -1,0 +1,31 @@
+Hierarchical Task Analysis
+
+Task - Buy a ticket
+    1 - Open APP
+    2 - Select the tickets page
+    3 - Choose trip
+        3.1 - Choose Departure and/or Destination station
+        3.2 - Choose dates
+        3.3 - Choose train
+
+    4 - Choose seat (if train is IC or AP)
+    5 - Choose payment method
+
+
+
+# 5 Tasks for prototype
+## Urban
+
+    1 - Check the schedule for Urban train departing around 5PM from Aveiro to Porto 
+    2 - Check if pass validation date is past due, if it is, revalid it 
+    3 - Add Aveiro Station to check for departure schedule of the Urban train in favorites
+
+## Ocasional trips
+    1 -  Buy a ticket from Aveiro to Porto on 20th of December around 9AM and choose AP as the train type and select a window seat and add to favorites.
+    2 - Check if there's any delays or warning about the trains, if there is, go to your tickets and reschedule for tomorrow at the same hour.
+
+    3 - Buy ticket, AP Aveiro 9AM ->, from favorites
+
+
+
+
