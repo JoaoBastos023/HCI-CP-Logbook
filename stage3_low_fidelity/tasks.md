@@ -12,18 +12,16 @@ Task - Buy a ticket
     5 - Choose payment method
 
 
-
 # 5 Tasks for prototype
 ## Urban
 
-    1 - Check the schedule for Urban train departing around 5PM from Aveiro to Porto 
-    2 - Check if pass validation date is past due, if it is, revalid it 
+    1 - Check the schedule for Urban train from Aveiro to Porto departing around 5PM
+    2 - Check if pass validation date is past due, if it is, revalidate it
     3 - Add Aveiro Station to check for departure schedule of the Urban train in favorites
 
 ## Ocasional trips
     1 -  Buy a ticket from Aveiro to Porto on 20th of December around 9AM and choose AP as the train type and select a window seat and add to favorites.
     2 - Check if there's any delays or warning about the trains, if there is, go to your tickets and reschedule for tomorrow at the same hour.
-
     3 - Buy ticket, AP Aveiro 9AM ->, from favorites
 
 
