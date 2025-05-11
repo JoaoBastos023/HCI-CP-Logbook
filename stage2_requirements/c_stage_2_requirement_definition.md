@@ -20,7 +20,7 @@
 | **Location**     | Lisboa, Portugal                              |
 | **Goals**        | Receber alertas personalizados e atualizações precisas para organizar seu trajeto sem imprevistos.                                       |
 | **Pain Points**  | Informações fragmentadas, como ausência de dados sobre plataformas de partida, atrasos e um processo de pagamento repetitivo.            |
-| **Motivation**   | *"Preciso de uma app que me ofereça controle real sobre minha viagem com informações claras."*                                              |
+| **Motivation**   | *"Preciso de uma app que me ofereça controlo real sobre minha viagem com informações claras."*                                              |
 | **Full Profile** | [📄 Read More](personas/persona_Marcos_.md)   |
 
 ---
