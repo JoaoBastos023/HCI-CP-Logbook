@@ -15,13 +15,13 @@ Task - Buy a ticket
 # 5 Tasks for prototype
 ## Urban
 
-    1 - Check the schedule for Urban train from Aveiro to Porto departing around 5PM
+    1 - Check the schedule for Urban train from Aveiro to Porto Campanha departing around 5PM
     2 - Check if pass validation date is past due, if it is, revalidate it.
     3 - Add Aveiro Station with Urban train type to favorites and then check the departure schedules
 
 ## Occasional trips
     1 - Buy a ticket from Aveiro to Porto on 20th of December around 9AM, choose AP as the train type, select a window seat and then add to favorites.
-    2 - Check if there are any delays or warnings about the trains, if there are, go to your tickets and reschedule for tomorrow at the same time.
+    2 - Check if there are any delays or warnings about the trains, if there are, go to your tickets and reschedule for the next day at the same time.
     3 - Buy ticket, AP Aveiro 9AM ->, from favorites
 
 
