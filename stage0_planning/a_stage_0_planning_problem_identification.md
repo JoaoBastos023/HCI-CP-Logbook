@@ -7,15 +7,17 @@
 Train service is something used by many and a usable app is mandatory for everyone to be able to buy a ticket from it, or check schedules or other information regarding the trains like delays or strikes.
 
 # Context
-[What is the context for your work. What area of application. It can be travelling, pet treatment, shopping. State the overall context and why it is interesting to think about it.]
-
+Existing train app (CP app with 2.5-star rating) lacks usability, causing frustration for tasks like ticket purchases, schedule checks, and delay alerts. A simpler, proactive app is needed.
+This is a relevant topic for us, given that most of us have to use the train to come to university, and it is a topic that constantly gets critisized.
 
 
 # Challenges
-[What are aspects that remain a challenge? What is difficult to do? What could profit from a more customizable approach?]
+- Providing real-time updates (delays, strikes).
+- Simplifying repetitive tasks (e.g., payments).
+- Balancing usability for both daily and occasional users.
 
 # The goal
-[In a short sentence state what is the problem you wish to address]
+Design a user-friendly train app to address core frustrations: ticket management, real-time alerts, and streamlined workflows.
 
 
 [Back to main Logbook Page](hci_logbook.md)
