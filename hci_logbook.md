@@ -6,7 +6,7 @@ Work carried out by:
 -->
 # *HCI Project Logbook*
 
-**Title of the project**: [Title goes here]
+**Title of the project**: Train APP
 **Team:**
 - Student 1: Bruno Oliveira 113663
 - Student 2; João Bastos 113470

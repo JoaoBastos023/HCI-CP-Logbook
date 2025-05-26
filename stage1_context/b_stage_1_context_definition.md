@@ -12,11 +12,11 @@
 ## B.1a. Competitors
 
 
-| **Competitor**    | **Description**                             | Information repository              |
-| ----------------- | ------------------------------------------- | ----------------------------------- |
-| [Amazon Shoes]    | [Online platform selling shoe laces]        | [[Competitor Analysis AmazonShoes]] |
-| [Fnac Atacadores] | [Smartphone app to buy and sell shoe laces] |                                     |
-| ...               |                                             |                                     |
+| **Competitor**    		| **Description**                             				| Information repository              	|
+| ------------------------- | --------------------------------------------------------- | ------------------------------------- |
+| Comboios de Portugal (CP)	| National train service provider with a poorly rated app	| [[Competitor Analysis CP]] 			|
+| Flixbus 					| International bus service with a modern well-regarded app	| [[Competitor Analysis FlixBus]]  		|
+| Rede Expressos            | Leading Portuguese intercity bus company                  | [[Competitor Analysis RedeExpressos]] |
 
 
 
@@ -28,7 +28,10 @@
 ### - Heuristic Evaluation
 
 #### Method
-[ Describe the method used for the heuristic evaluation: procedure, number of experts, heuristics, severity scale considered, how was consensus done.]
+
+- Procedure: Two evaluators assessed the CP app using Nielsen’s 10 heuristics.
+- Severity Scale: 1 (Low severity) to 4 (Critical).
+- Consensus: Final ratings averaged between evaluators (Bruno and João).
 
 
 #### Individual Evaluations
@@ -45,11 +48,12 @@
 
 >	After the individual analysis by each expert, all results should be gathered in a consensus table. If an expert has not found any of the problems found by other experts, they should analyse it, at this point, and give it a severity.
 
-| **Issue**       | **Expert 1** | Expert 2 | Expert 3 | Recommendations                             |
-| --------------- | ------------ | -------- | -------- | ------------------------------------------- |
-| Something wrong | 3            | 1        | 0        | Something could be done to the button to... |
-| Another thing   | 4            | 3        | 4        | Other thing to recommend                    |
-| ...             |              |          |          |                                             |
+| **Issue**       										| **Bruno** 	| **João** |  Recommendations                            |
+| ----------------------------------------------------- | ------------- | -------- | ------------------------------------------- |
+| No labels for train types (AP, IC, R, U) 				| 3             | 2        | Add tooltips/icons explaining train types.  |
+| No warnings about strikes impacting ticket purchases  | 4             | 3        | Integrate strike alerts or screen.          |
+| Help button only visible during ticket selection      | 2             | 3        |                                             |
+... more on the presentation
 
 
 
@@ -61,7 +65,12 @@
 
 #### Task Selection and Task Analysis
 
-[Which tasks did you select and why. What are the subtasks entailed for each ]
+- Tasks Selected: Booking a ticket (most frequent user task).
+
+- Subtasks:
+	- Choose destination.
+	- Select train type.
+	- Pick seat.
 
 
 | Task                        | Subtasks                               |
@@ -100,8 +109,12 @@ Task: [This is the task]
 
 
 ## B.2a. Method
+- Approach: Conducted 6 semi-structured interviews with daily commuters and occasional travelers.
 
-[What approach was followed to talk with users; what kind of users were considered. What was the goal of the interviews? What were the questions considered?]
+- Goal: Understand pain points (e.g., payment inefficiency, lack of alerts) and desired features.
+
+- Questions: [EntrevistaPerguntas](Interviews/EntrevistaPerguntas.md)
+
 ## B.2b. Results
 
 >	This section tracks all informal user interviews, summarizing key insights and linking to detailed notes for each session. 
@@ -114,15 +127,15 @@ Task: [This is the task]
 
 ### Common Themes & Patterns 
 
-- **Recurring Problems:** 
-	- Issue 1
-	- Issue 2
-- **Frequently Used Tools:** 
-	- Tool 1
-	- Tool 2
-- **Desired Features / Solutions:** 
-	- Feature 1
-	- Feature 2
+**Recurring Problems:**
+
+	- No real-time delay/strike alerts.
+	- Repetitive payment workflows.
+
+- **Desired Features:**
+
+	- Saved payment methods.
+	- Real-time route tracking and alerts.
 - --- 
 
 
