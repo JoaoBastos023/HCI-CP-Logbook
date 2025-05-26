@@ -1,0 +1,4 @@
+npm install @react-navigation/native
+yarn add expo
+npx expo install react-native-screens react-native-safe-area-context react-native-gesture-handler react-native-reanimated react-native-vector-icons
+npm install @react-navigation/native-stack
